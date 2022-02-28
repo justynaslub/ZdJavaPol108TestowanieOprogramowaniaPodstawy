@@ -72,3 +72,7 @@ fabric.properties
 
 .idea/
 *.iml
+.classpath
+.project
+.settings/
+target/
