@@ -6,3 +6,9 @@ public class StringUtil {
         return input == null || input.trim().isEmpty();
     }
 }
+// "" - true
+// "   " - true
+//"\n" - true
+
+// "Ala ma" - false
+//" . " - false
